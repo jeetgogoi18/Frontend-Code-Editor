@@ -15,13 +15,13 @@ body{
     height: 100%;
     display: flex;
     flex-direction: column;
-    background-color: aqua;
+    background-color: black;
 }
 
 .right_part{
     flex-basis: 50%;
     height: 100%;
-    background-color: blue;
+    background-color: aliceblue;
 }
 
 .content{
@@ -37,7 +37,7 @@ body{
 }
 
 .left_part .content textarea{
-    width: 100%;
+    width: 90%;
     height: 75%;
     padding: 10px;
     outline: none;
